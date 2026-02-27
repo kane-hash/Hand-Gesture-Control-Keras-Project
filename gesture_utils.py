@@ -69,6 +69,7 @@ def detect_gesture_simple(hand_landmarks_list):
 
     lm = hand_landmarks_list
 
+    #Finger states
     thumb_up  = _is_thumb_up(lm)
     index_up  = _is_finger_up(lm, 8, 6)
     middle_up = _is_finger_up(lm, 12, 10)
