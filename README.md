@@ -18,4 +18,4 @@ Real-time hand gesture recognition system that lets you **draw**, **control volu
 
 
 
-test from kurt will delete later
+
