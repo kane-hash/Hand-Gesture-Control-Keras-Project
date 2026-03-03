@@ -1,3 +1,9 @@
+---
+
+STILL IN DEVELOPMENT ⚠️⚠️ 
+
+---
+
 Real-time hand gesture recognition system that lets you **draw**, **control volume**, and **click** using just your hand — powered by MediaPipe + Keras
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
